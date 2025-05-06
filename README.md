@@ -22,12 +22,6 @@ The system is composed of three main modules:
 2. **Textual Encoding**: GloVe embeddings processed by LSTM
 3. **Multimodal Fusion**: Transformer encoder with multi-head self-attention
 
-## 🧪 Evaluation
-
-| Model                 | Accuracy (%) |
-|----------------------|--------------|
-| CNN-LSTM Baseline    | 78.9         |
-| **VisionIQ (Full)**  | **95.4**     |
 
 ## 📦 Technologies Used
 
